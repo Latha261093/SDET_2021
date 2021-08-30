@@ -8,6 +8,8 @@ public class CreateOrgTest {
 	@Test
 	public void createOrgTest() {
 		System.out.println("execute createOrg Test");
+		String BROWSER=System.getProperty("browser");
+		String ENV=System.getProperty("url");
  	}	
 	
 	
